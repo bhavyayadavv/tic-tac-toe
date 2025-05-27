@@ -4,7 +4,7 @@ So yeah, this is a simple Tic-Tac-Toe game I made for fun using HTML, CSS, and a
 
 ## Play it here
 
-Check it out: [https://bhavyayadavv.github.io/tic-tac-toe](https://yourusername.github.io/tic-tac-toe)
+Check it out: [https://bhavyayadavv.github.io/tic-tac-toe](https://bhavyayadavv.github.io/tic-tac-toe)
 
 ## What it does
 
